@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [node]: https://nodejs.org/en
 [yarn]: https://yarnpkg.com
 [pnpm]: https://pnpm.io
@@ -178,3 +179,6 @@ Special thanks to:
 - [tandpfun](https://github.com/tandpfun) for [skill-icons](https://github.com/tandpfun/skill-icons);
 
 [Back to :arrow_up:](#vite-three-js--template "Back to 'Table of contents' section")
+=======
+3D Project
+>>>>>>> 8772179e23622d4839b2d7cd193a814f6f4ea878
